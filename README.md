@@ -1,2 +1,1 @@
-# courseraStatisticalInference
-Repository for Programming Assignments for Statistical Inference on Coursera
+Repository for Programming Assignments for Statistical Inference on Coursera (JHU)
